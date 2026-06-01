@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# HarmonyBLOGS
 
-## Getting Started
+HarmonyBLOGS is a secure, open-source blogging platform built for the Open Source Hackathon 2026. This project enables users to sign up, manage their accounts, and create and publish their own blog posts in a clean, responsive environment.
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+* **User Authentication**: Secure sign-up and login functionality powered by Supabase.
+* **Content Management**: Users can create, read, update, and delete their own blog posts (CRUD operations).
+* **Account Management**: Dedicated dashboard for users to manage their profiles and account settings.
+* **Responsive Design**: Built using Tailwind CSS to ensure a professional look across all devices.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠 Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* **Framework**: Next.js
+* **Backend/Database**: Supabase
+* **Styling**: Tailwind CSS
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📦 Getting Started
 
-## Learn More
+1. Clone this repository: `git clone https://github.com/Boytag/HarmonyBLOGS`
+2. Install dependencies: `npm install`
+3. Create a `.env.local` file and add your Supabase project credentials.
+4. Run the development server: `npm run dev`
 
-To learn more about Next.js, take a look at the following resources:
+## 📝 Guidelines
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* This project is developed as part of the Open Source Hackathon 2026.
+* All project progress, commits, and source code are maintained publicly throughout the 7-day development period.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ⚖️ License
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is open source and available under the MIT License.
