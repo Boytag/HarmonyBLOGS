@@ -17,7 +17,7 @@ HarmonyBLOGS is a secure, open-source blogging platform built for the Open Sourc
 
 ## 📦 Getting Started
 
-1. Clone this repository: `git clone [your-repo-url]`
+1. Clone this repository: `git clone https://github.com/Boytag/HarmonyBLOGS`
 2. Install dependencies: `npm install`
 3. Create a `.env.local` file and add your Supabase project credentials.
 4. Run the development server: `npm run dev`
