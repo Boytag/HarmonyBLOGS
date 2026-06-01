@@ -1,5 +1,7 @@
 HarmonyBLOGS
+
 ​HarmonyBLOGS is a secure, open-source blogging platform built for the Open Source Hackathon 2026. This project enables users to sign up, manage their accounts, and create and publish their own blog posts in a clean, responsive environment.
+
 ​🚀 Features
 ​User Authentication: Secure sign-up and login functionality powered by Supabase.
 ​Content Management: Users can create, read, update, and delete their own blog posts (CRUD operations).
@@ -9,13 +11,16 @@ HarmonyBLOGS
 ​Framework: Next.js
 ​Backend/Database: Supabase
 ​Styling: Tailwind CSS
+
 ​📦 Getting Started
 ​Clone this repository: git clone [your-repo-url]
 ​Install dependencies: npm install
 ​Create a .env.local file and add your Supabase project credentials.
 ​Run the development server: npm run dev
+
 ​📝 Guidelines
 ​This project is developed as part of the Open Source Hackathon 2026.
 ​All project progress, commits, and source code are maintained publicly throughout the 7-day development period.
+
 ​⚖️ License
 ​This project is open source.
